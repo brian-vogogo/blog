@@ -7,7 +7,7 @@ GIT
 
 GIT
   remote: https://github.com/k0kubun/pry-byebug
-  revision: 0f5bd212acc7ced5e134d8de52c7d12252421e34
+  revision: de89e05b6ec7c292e294754e3b293fbaa51dcb22
   branch: byebug-stop
   specs:
     pry-byebug (3.2.0)
